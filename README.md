@@ -4,8 +4,8 @@
     <b>Bienvenido a mi perfil!</b><br><br>
     <i>
         Soy Gerson (Gerson Cornelio).<br>
-        Desarrollador Android Mobile con 2 años y medio de experiencia laboral.<br>
-        Actualmente trabajando en Bitminds Consultors y aprendiendo ingles.<br>
+        Desarrollador Android Mobile con 3 años de experiencia laboral.<br>
+        Actualmente trabajando en Retail Customs Solutions y aprendiendo ingles.<br>
         Puedes contactarme en mi Redes.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/gersoncorneliodev">
